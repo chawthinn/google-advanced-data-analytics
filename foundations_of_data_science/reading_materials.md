@@ -1,3 +1,6 @@
+# Disclaimer: 
+The content below is sourced and summarized from Coursera for educational and illustrative purposes. 
+
 # Data Discourse Over the Years
 
 ### What is Data Science vs. Data Analytics?
@@ -50,5 +53,85 @@ The evolution of the field reflects technological and societal advancements:
 - The data career space has evolved alongside technology, data storage, and communication.
 - Recognizing the similarities and differences between these fields will help you align your skills with relevant opportunities in the data profession.
 
-### Disclaimer: 
-The content above is sourced from Coursera for educational and illustrative purposes.
+# Readiness for the program
+
+## General data analytics principles and data types
+
+### Data science 
+A field of study that uses raw data to create new ways of modeling and understanding the unknown 
+
+### Qualitative vs Quantitative data
+Qualitative data measures qualities and characteristics; quantitative data measures numerical facts.
+
+### Wide vs Long data
+- Wide data: Subjects have data in multiple columns, with each column representing a different attribute or variable.
+    - Wide data subjects can have data in multiple columns.
+    - Wide data subjects can have multiple <u>columns</u> that hold the values of subject attributes. 
+
+- Long data: Subjects have multiple rows, with each row holding the values of subject attributes, often combined with an identifier column.
+    - Long data subjects can have data in multiple columns such as an identifier column and an attribute value column.
+    - Long data subjects can have multiple <u>rows</u> that hold the values of subject attributes. 
+
+
+![alt text](image.png)
+
+*Image source: https://www.statology.org/long-vs-wide-data/*
+
+### Structured vs Unstructured Data
+| **Structured Data Examples**        | **Unstructured Data Examples**       |
+|-----------------------------|-----------------------------|
+| Spreadsheet          | Social media posts         |
+| Relational databases         | Videos                     |
+| Financial transactions logs | Images                     |
+| Customer contact details     | Audio recordings           |
+| Inventory records            | Emails                     |
+
+## Data Strategy
+
+### Stakeholders 
+
+Individuals who have invested time and resources in a project and are interested in its outcome.
+
+### Sample size
+When collecting data for a study, what are some reasons to consider sample size?
+- To collect data that represents a diverse set of perspectives
+- To make sure a few unusual responses don’t skew results
+
+### SMART methodology
+The SMART methodology can be used to ask a question that promotes change. The type of SMART question that leads to change is **Action-oriented**.
+
+### Correlation
+When two variables rise and fall at the same time, they are likely correlated. Correlation indicates a relationship where changes in one variable are associated with changes in another, but it does not necessarily imply causation.
+
+### Labels over Legend in Data Visualiztion
+- Labels provide context by placing explanations close to the relevant data points.
+- Labels reduce the need to look back and forth between the legend and the data, making the visualization easier to interpret.
+- Labels make the data visualization more accessible because they don’t rely on the ability to interpret color.
+
+### Key characteristics of a metric
+- Metrics are used for measurement.
+- Metrics are quantifiable.
+- Metrics can be used to evaluate performance.
+
+## Data integrity and data cleaning
+
+### Bias
+Interpretation bias is the tendency to interpret ambiguous situations in a positive or negative way, often based on an individual's subjective perspective or preconceived notions.
+
+### Consent in data collection
+Consent is where an individual acknowledges understanding how their data will be used and agrees to participate under those terms. Consent is a critical part of ethical data collection practices.
+
+## Programming Languages
+
+There are three main benefits of using a programming language to work with data: 
+- Easily reproduce and share work, 
+- save time, and 
+- clarify the steps of analysis.
+
+## Data visualization
+
+Use of filters in data visualization tools
+- Highlighting individual data points
+- Providing data to different users based on their particular needs
+- Limiting the number of rows or columns in view
+
