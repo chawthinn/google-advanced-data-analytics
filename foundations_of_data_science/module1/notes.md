@@ -1,7 +1,9 @@
 # Disclaimer: 
-The content below is sourced and summarized from Coursera for educational and illustrative purposes. 
+The content below is created as study notes based on the reading materials from Coursera for educational and illustrative purposes. 
 
-# Data Discourse Over the Years
+# Module 1: Introduction to data science concepts
+
+## Data Discourse Over the Years
 
 ### What is Data Science vs. Data Analytics?
 
@@ -52,8 +54,6 @@ The evolution of the field reflects technological and societal advancements:
 - Data science and data analytics are distinct yet interconnected disciplines, often used interchangeably in the workplace.
 - The data career space has evolved alongside technology, data storage, and communication.
 - Recognizing the similarities and differences between these fields will help you align your skills with relevant opportunities in the data profession.
-
-# Readiness for the program
 
 ## General data analytics principles and data types
 
