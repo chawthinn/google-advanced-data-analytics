@@ -58,3 +58,6 @@ Objectives:
 * Create models using machine learning techniques
 * Compose data visualizations
 * Review career resources
+
+# Disclaimer:
+The content, including notes and code, is created based on the reading materials and coursework from Coursera. All intellectual property rights belong to Coursera and their respective authors. This repository is intended for educational and illustrative purposes only.
